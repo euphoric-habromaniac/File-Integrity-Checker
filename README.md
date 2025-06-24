@@ -147,9 +147,3 @@ This project is licensed under the **MIT License**.
 You are free to use, modify, and distribute it with attribution.
 
 ---
-
-## 🙌 Acknowledgments
-
-Special thanks to the mentors and peers at **Hitech Infovision** for their guidance during the development of this internship project.
-
----
